@@ -34,7 +34,6 @@ hr{ border: dashed 4px #00008B; }
 ul, ol { background-color: #1E90FF; }
 
 li {color: #F0FFFF}
-
-ul li:2nd-child { background-color: #A52A2A; } 
-ul li:last-child { background-color: #A52A2A; } 
+ 
+ul li:nth-last-child(2) { background-color: #A52A2A; } 
  
