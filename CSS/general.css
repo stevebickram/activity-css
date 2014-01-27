@@ -29,7 +29,7 @@ p strong { color: #DC143C;}
 strong { font-weight: bold; }
 em { font-style: italic; }
 
-hr{ border: 4px #00008B; }
+hr{ border: dashed 4px #00008B; }
 
 ul, ol { background-color: #1E90FF; }
 
