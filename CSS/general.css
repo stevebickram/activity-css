@@ -20,10 +20,10 @@ h1 { font-family: Georgia, "Times New Roman", serif;
     font-size: 3rem; /* 1 rem = 16px */ 
     font-weight: normal; }
 
-p { font-size:; 2rem; 
+p { font-size:; 1rem; 
     line-height: 1.5rem; }
     
-h1 + p { font-size: 2.5rem; line-height: 1.75rem;}
+h1 + p { font-size: 1.5rem; line-height: 1.75rem;}
 
 p strong { color: #DC143C;}
 strong { font-weight: bold; }
