@@ -25,11 +25,11 @@ p { font-size:; 1rem;
     
 h1 + p { font-size: 1.5rem; line-height: 1.75rem;}
 
-p strong { color: #39f;}
+p strong { color: #DC143C;}
 strong { font-weight: bold; }
 em { font-style: italic; }
 
-hr{ border: dashed 4px #B22222; }
+hr{ border: 4px #00008B; }
 
 ul, ol { background-color: #1E90FF; }
 
