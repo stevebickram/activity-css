@@ -29,10 +29,10 @@ p strong { color: #39f;}
 strong { font-weight: bold; }
 em { font-style: italic; }
 
-hr{ border: dashed 4px #f00; }
+hr{ border: dashed 4px #B22222; }
 
-ul, ol { background-color: #fff; }
+ul, ol { background-color: #1E90FF; }
 
-li {color: #f00}
+li {color: #F0FFFF}
 
 ol li:first-child { background-color: #000; } 
