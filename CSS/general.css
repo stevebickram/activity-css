@@ -30,7 +30,7 @@ strong { font-weight: bold; }
 em { font-style: italic; }
 
 hr{ border: dashed 4px #00008B; }
-p{ font-variant-position: super }
+p{ font-variant-position: super; }
 ul, ol { background-color: #1E90FF; }
 
 li {color: #F0FFFF}
