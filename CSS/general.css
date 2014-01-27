@@ -31,9 +31,9 @@ em { font-style: italic; }
 
 hr{ border: dashed 4px #00008B; }
 
-ul, ol { background-color: #1E90FF; }
+ul, ol { background-color: #A52A2A; }
 
 li {color: #F0FFFF}
 
-ul li:2 { background-color: #A52A2A; } 
-ul li:3 { background-color: #A52A2A; } 
+ul li:first child { background-color: #1E90FF; } 
+ 
