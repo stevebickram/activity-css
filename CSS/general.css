@@ -8,15 +8,13 @@ selector{
     propert: value; 
 }
 
-Each selector is paired with and styles an element. For example: 
 
-html{} is paired with and styles, the element <html>
 
 */
 
 html { font-family:Arial, Henlvetica, sans-serif; }
 
-body { background-color: #800000; }
+body { background-color: #1E90FF; }
 
 h1 { font-family: Georgia, "Times New Roman", serif; 
     font-size: 3rem; /* 1 rem = 16px */ 
