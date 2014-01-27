@@ -15,7 +15,7 @@ selector{
 html { font-family:Arial, Henlvetica, sans-serif; }
 
 body { background-color: #1E90FF; }
-
+border-top 2px solid #F00; /* size + solid, dashed or dotted + colour */
 h1 { font-family: Georgia, "Times New Roman", serif; 
     font-size: 3rem; /* 1 rem = 16px */ 
     font-weight: normal; }
