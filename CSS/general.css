@@ -35,6 +35,5 @@ ul, ol { background-color: #1E90FF; }
 
 li {color: #F0FFFF}
  
-ul : last-child { background-color: #A52A2A; } 
-
- 
+ol li:first-child { background-color: #000; } 
+ #A52A2A
